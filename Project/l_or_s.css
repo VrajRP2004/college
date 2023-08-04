@@ -1,0 +1,29 @@
+.bgimg{
+    background-image: url(th.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container{
+    display: flex;
+    height: 400px;
+    width: 350px;
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    margin: 0;
+
+}
+#ls{
+    
+    width: 300px;
+    height: 25px;
+    border-radius: 7px;
+    border-color:blank;
+    margin: 1px;
+}
